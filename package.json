@@ -1,0 +1,21 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js boilerplate package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skenzi/hexlet-js.git"
+  },
+  "author": "Dmitry Klimenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skenzi/hexlet-js/issues",
+     "email":"dedooman@mail.ru"
+  },
+  "homepage": "https://github.com/Skenzi/hexlet-js#readme"
+}
