@@ -15,7 +15,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Skenzi/hexlet-js/issues",
-     "email":"dedooman@mail.ru"
+    "email": "dedooman@mail.ru"
   },
-  "homepage": "https://github.com/Skenzi/hexlet-js#readme"
+  "homepage": "https://github.com/Skenzi/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
